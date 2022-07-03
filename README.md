@@ -32,4 +32,7 @@ trưng bày sản phẩm, tạo giỏ hàng, thanh toán hóa đơn
 ### Some ideas we need to update:
 + paging
 + search engine
-
+![This is an image](https://github.com/tocongtuyen/SPRING_WEB/blob/main/images/img1.png)
+![This is an image](https://github.com/tocongtuyen/SPRING_WEB/blob/main/images/img2.png)
+![This is an image](https://github.com/tocongtuyen/SPRING_WEB/blob/main/images/img3.png)
+![This is an image](https://github.com/tocongtuyen/SPRING_WEB/blob/main/images/img4.png)
